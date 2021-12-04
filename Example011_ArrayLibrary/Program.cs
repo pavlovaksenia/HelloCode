@@ -10,7 +10,7 @@ void FillArray(int[] collection) //Эта функция придумывает 
     } 
 }
 
-void PrintArray(int[] col) //col=collection Эта функция выводит выводит массив на экран
+void PrintArray(int[] col) //col=collection Эта функция выводит массив на экран
 {
     int count = col.Length;
     int position = 0; //position=index
